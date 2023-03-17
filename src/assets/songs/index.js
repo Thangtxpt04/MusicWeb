@@ -8,5 +8,6 @@ const songs = {
   dapancuoicung: require("../songs/DapAnCuoiCung-QuanAP-7887096.mp3"),
   987: require("../songs/987.mp3"),
   nhacbuonngayhai: require("../songs/nhacbuonngayhai.mp3"),
+  inthedark: require("../songs/In The Dark  TIA x fueled by boba  Speed Up  Lyrics.mp3"),
 };
 export default songs;

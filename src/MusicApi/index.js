@@ -9,10 +9,10 @@ const musicApi = [
     songAvatar: images[987],
   },
   {
-    songName: "Kẻ tin vào tình yêu",
-    artistName: "Lil Zpoet",
-    songSrc: songs.ketinvaotinhyeu,
-    songAvatar: images.ketinvaotinhyeu,
+    songName: "In the dark",
+    artistName: "TIA x fueled by boba",
+    songSrc: songs.inthedark,
+    songAvatar: images.inthedark,
   },
   {
     songName: "Mưa cứ rơi",
