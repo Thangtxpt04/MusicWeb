@@ -10,7 +10,7 @@ function App() {
   let musicIndex = useRef(0);
   const [isAudioPlaying, setIsAudioPlaying] = useState(false);
   const [videoBackground, setVideoBackground] = useState(videos.video6);
-  const [musicTimeDuration, setMusicTimeDuration] = useState("04 : 36");
+  const [musicTimeDuration, setMusicTimeDuration] = useState("03 : 40");
   const [musicTimeCurrent, setMusicTimeCurrent] = useState("00 : 00");
 
   useEffect(() => {
